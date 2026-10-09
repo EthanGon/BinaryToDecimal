@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Bin2Dec\\x64\\Debug\\HelloWorld.obj",
+            "outputs": [
+                "Bin2Dec\\x64\\Debug\\HelloWorld.cpp.obj.dt.module.json",
+                "Bin2Dec\\x64\\Debug\\HelloWorld.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

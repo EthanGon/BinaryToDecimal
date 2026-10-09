@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 158 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Bin2Dec.vcxproj -> C:\Users\Ethan\source\repos\Bin2Dec\x64\Release\Bin2Dec.exe

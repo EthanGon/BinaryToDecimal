@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bin2Dec.vcxproj" Id="f89c6c2d-4202-4936-bff4-a619a89cba6d" />
+</Solution>
